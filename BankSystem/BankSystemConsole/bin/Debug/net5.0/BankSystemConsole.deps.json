@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BankSystemConsole/1.0.0": {
+        "dependencies": {
+          "BankSystem.Core": "1.0.0"
+        },
+        "runtime": {
+          "BankSystemConsole.dll": {}
+        }
+      },
+      "BankSystem.Core/1.0.0": {
+        "runtime": {
+          "BankSystem.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankSystemConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankSystem.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

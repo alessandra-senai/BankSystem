@@ -2,7 +2,6 @@ C:\Users\aless\OneDrive\Documents\GitHub\BankSystem\BankSystem\BankSystem.Core\b
 C:\Users\aless\OneDrive\Documents\GitHub\BankSystem\BankSystem\BankSystem.Core\bin\Debug\net5.0\BankSystem.Core.dll
 C:\Users\aless\OneDrive\Documents\GitHub\BankSystem\BankSystem\BankSystem.Core\bin\Debug\net5.0\ref\BankSystem.Core.dll
 C:\Users\aless\OneDrive\Documents\GitHub\BankSystem\BankSystem\BankSystem.Core\bin\Debug\net5.0\BankSystem.Core.pdb
-C:\Users\aless\OneDrive\Documents\GitHub\BankSystem\BankSystem\BankSystem.Core\obj\Debug\net5.0\BankSystem.Core.csproj.AssemblyReference.cache
 C:\Users\aless\OneDrive\Documents\GitHub\BankSystem\BankSystem\BankSystem.Core\obj\Debug\net5.0\BankSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\aless\OneDrive\Documents\GitHub\BankSystem\BankSystem\BankSystem.Core\obj\Debug\net5.0\BankSystem.Core.AssemblyInfoInputs.cache
 C:\Users\aless\OneDrive\Documents\GitHub\BankSystem\BankSystem\BankSystem.Core\obj\Debug\net5.0\BankSystem.Core.AssemblyInfo.cs

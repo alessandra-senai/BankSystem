@@ -1,6 +1,6 @@
 ﻿namespace BankSystem.Core.Entities
 {
-    public enum AccountSituation
+    public enum AccountSituationEnum
     {
 
         Created = 1,

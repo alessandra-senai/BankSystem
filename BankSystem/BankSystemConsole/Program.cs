@@ -6,7 +6,7 @@ namespace BankSystemConsole
     class Program
     {
         static void Main(string[] args)
-        { 
+        {
             Client client = new Client("João Pedro", "123456", "345345666", "Rua Flor de Jasmim, 45 - Águas da Prata - SP");
 
             CheckingAccount checkingAccount = new CheckingAccount(client, 100);

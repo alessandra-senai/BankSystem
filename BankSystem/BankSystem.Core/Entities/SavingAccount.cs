@@ -8,7 +8,8 @@ namespace BankSystem.Core.Entities
         public SavingAccount(Client client) : base(client)
         {
             SavingIncomePercentage = 0.003M;
-
+             
         }
+
     }
 }
